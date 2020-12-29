@@ -46,9 +46,21 @@
               "target": "Package",
               "version": "[12.0.3, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
             "Prism.Unity.Forms": {
               "target": "Package",
               "version": "[8.0.0.1909, )"
+            },
+            "Prism.Unity.Forms": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.7, )"
             },
             "RestSharp": {
               "target": "Package",
@@ -58,9 +70,21 @@
               "target": "Package",
               "version": "[1.7.0, )"
             },
+            "Xamarin.Auth": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
             "Xamarin.Essentials.Interfaces": {
               "target": "Package",
               "version": "[1.6.0, )"
+            },
+            "Xamarin.Essentials.Interfaces": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.8.0.1821, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
